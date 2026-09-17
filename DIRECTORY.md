@@ -1,4 +1,10 @@
 
+## Desktop
+  * Open-Source
+    * R
+      * Graph Algorithms
+        * [Kruskal Mst](https://github.com/TheAlgorithms/R/blob/HEAD/Desktop/open-source/R/graph_algorithms/kruskal_mst.r)
+
 ## Association Algorithms
   * [Apriori](https://github.com/TheAlgorithms/R/blob/HEAD/association_algorithms/apriori.r)
 
@@ -41,13 +47,15 @@
   * [Dimensionality Reduction Algorithms](https://github.com/TheAlgorithms/R/blob/HEAD/data_preprocessing/dimensionality_reduction_algorithms.r)
   * [K Folds](https://github.com/TheAlgorithms/R/blob/HEAD/data_preprocessing/k_folds.r)
   * [Lasso](https://github.com/TheAlgorithms/R/blob/HEAD/data_preprocessing/lasso.r)
+  * [Pca](https://github.com/TheAlgorithms/R/blob/HEAD/data_preprocessing/pca.r)
 
 ## Data Structures
-  * [Binary Search Tree](https://github.com/TheAlgorithms/R/blob/HEAD/data_structures/binary_search_tree.r)
-  * Stack
-    * [Stack Operations](https://github.com/TheAlgorithms/R/blob/HEAD/data_structures/Stack/stack_operations.r)
   * Queue
     * [Queue Operations](https://github.com/TheAlgorithms/R/blob/HEAD/data_structures/Queue/queue_operations.r)
+  * Stack
+    * [Stack Operations](https://github.com/TheAlgorithms/R/blob/HEAD/data_structures/Stack/stack_operations.r)
+  * [Binary Heap](https://github.com/TheAlgorithms/R/blob/HEAD/data_structures/binary_heap.r)
+  * [Binary Search Tree](https://github.com/TheAlgorithms/R/blob/HEAD/data_structures/binary_search_tree.r)
 
 ## Dynamic Programming
   * 0
@@ -55,33 +63,43 @@
       * [1 Knapsack Problem](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/0/0/1_knapsack_problem.r)
     * [1 Knapsack Problem](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/0/1_knapsack_problem.r)
   * [Coin Change](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/coin_change.r)
+  * [Kadanes Algo](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/kadanes_algo.r)
   * [Longest Common Subsequence](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/longest_common_subsequence.r)
   * [Longest Increasing Subsequence](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/longest_increasing_subsequence.r)
   * [Matrix Chain Multiplication](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/matrix_chain_multiplication.r)
   * [Minimum Path Sum](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/minimum_path_sum.r)
   * [Subset Sum](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/subset_sum.r)
+  * [Travelingsalesman Bitmask](https://github.com/TheAlgorithms/R/blob/HEAD/dynamic_programming/travelingSalesman_bitmask.r)
 
 ## Graph Algorithms
+  * [A Star Search](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/a_star_search.r)
   * [Bellman Ford Shortest Path](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/bellman_ford_shortest_path.r)
+  * [Bidirectional Bfs](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/bidirectional_bfs.r)
   * [Breadth First Search](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/breadth_first_search.r)
   * [Bridge Detector](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/bridge_detector.r)
   * [Depth First Search](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/depth_first_search.r)
   * [Dijkstra Shortest Path](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/dijkstra_shortest_path.r)
+  * [Dinic Max Flow](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/dinic_max_flow.r)
   * [Floyd Warshall](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/floyd_warshall.r)
+  * [Hamilitonian Cycle](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/hamilitonian_cycle.r)
+  * [Iddfs](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/iddfs.r)
   * [Johnson Shortest Paths](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/johnson_shortest_paths.r)
   * [Kosaraju Scc](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/kosaraju_scc.r)
-
+  * [Prim Mst](https://github.com/TheAlgorithms/R/blob/HEAD/graph_algorithms/prim_mst.r)
 
 ## Linked List Algorithms
   * [Circular Linked List](https://github.com/TheAlgorithms/R/blob/HEAD/linked_list_algorithms/circular_linked_list.r)
   * [Doubly Linked List](https://github.com/TheAlgorithms/R/blob/HEAD/linked_list_algorithms/doubly_linked_list.r)
   * [Singly Linked List](https://github.com/TheAlgorithms/R/blob/HEAD/linked_list_algorithms/singly_linked_list.r)
-  * [Two-Pointer Technique (Fast and Slow Pointers)](https://github.com/TheAlgorithms/R/blob/HEAD/linked_list_algorithms/two_pointer_technique.r)
+  * [Two Pointer Technique](https://github.com/TheAlgorithms/R/blob/HEAD/linked_list_algorithms/two_pointer_technique.r)
 
 ## Machine Learning
   * [Gradient Boosting](https://github.com/TheAlgorithms/R/blob/HEAD/machine_learning/gradient_boosting.r)
+  * [K-Nn](https://github.com/TheAlgorithms/R/blob/HEAD/machine_learning/k-NN.r)
+  * [K Medoids](https://github.com/TheAlgorithms/R/blob/HEAD/machine_learning/k_medoids.r)
+  * [Lstm Time Series](https://github.com/TheAlgorithms/R/blob/HEAD/machine_learning/lstm_time_series.r)
+  * [Naive Bayes](https://github.com/TheAlgorithms/R/blob/HEAD/machine_learning/naive_bayes.r)
   * [Perceptron](https://github.com/TheAlgorithms/R/blob/HEAD/machine_learning/perceptron.r)
-
 
 ## Mathematics
   * [Amicable Numbers](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/amicable_numbers.r)
@@ -95,20 +113,24 @@
   * [First N Fibonacci](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/first_n_fibonacci.r)
   * [Gaussian Elimination](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/gaussian_elimination.r)
   * [Greatest Common Divisor](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/greatest_common_divisor.r)
-  * [Palindrome Check](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/isPalindrome.r)
+  * [Ispalindrome](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/isPalindrome.r)
   * [Josephus Problem](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/josephus_problem.r)
+  * [Karatsuba](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/karatsuba.r)
   * [Least Common Multiple](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/least_common_multiple.r)
   * [Modular Exponentiation](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/modular_exponentiation.r)
   * [Newton Raphson Method](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/newton_raphson_method.r)
+  * [Pascal Triangle](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/pascal_triangle.r)
   * [Perfect Number](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/perfect_number.r)
   * [Perfect Square](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/perfect_square.r)
   * [Permutation Calculation](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/permutation_calculation.r)
   * [Pi Monte Carlo](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/pi_monte_carlo.r)
   * [Prime](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/prime.r)
   * [Sieve Of Eratosthenes](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/sieve_of_eratosthenes.r)
+  * [Simpson Rule](https://github.com/TheAlgorithms/R/blob/HEAD/mathematics/simpson_rule.r)
 
 ## Quantitative Finance
   * [Black Scholes Option Pricing](https://github.com/TheAlgorithms/R/blob/HEAD/quantitative_finance/black_scholes_option_pricing.r)
+  * [Hidden Markov Model](https://github.com/TheAlgorithms/R/blob/HEAD/quantitative_finance/hidden_markov_model.r)
   * [Kalman Filter](https://github.com/TheAlgorithms/R/blob/HEAD/quantitative_finance/kalman_filter.r)
   * [Markowitz Portfolio Optimization](https://github.com/TheAlgorithms/R/blob/HEAD/quantitative_finance/markowitz_portfolio_optimization.r)
   * [Monte Carlo Simulation](https://github.com/TheAlgorithms/R/blob/HEAD/quantitative_finance/monte_carlo_simulation.r)
@@ -124,6 +146,8 @@
 
 ## Searches
   * [Binary Search](https://github.com/TheAlgorithms/R/blob/HEAD/searches/binary_search.r)
+  * [Exponential Search](https://github.com/TheAlgorithms/R/blob/HEAD/searches/exponential_search.r)
+  * [Interpolation Search](https://github.com/TheAlgorithms/R/blob/HEAD/searches/interpolation_search.r)
   * [Jump Search](https://github.com/TheAlgorithms/R/blob/HEAD/searches/jump_search.r)
   * [Linear Search](https://github.com/TheAlgorithms/R/blob/HEAD/searches/linear_search.r)
   * [Rabin.Karp.String.Search](https://github.com/TheAlgorithms/R/blob/HEAD/searches/rabin.karp.string.search.r)
@@ -132,6 +156,7 @@
 
 ## Sorting Algorithms
   * [Binary Insertion Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/binary_insertion_sort.r)
+  * [Bitonic Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/bitonic_sort.r)
   * [Bubble Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/bubble_sort.r)
   * [Bucket Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/bucket_sort.r)
   * [Cocktail Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/cocktail_sort.r)
@@ -141,10 +166,12 @@
   * [Gnome Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/gnome_sort.r)
   * [Heap Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/heap_sort.r)
   * [Insertion Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/insertion_sort.r)
+  * [Intro Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/intro_sort.r)
   * [Merge Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/merge_sort.r)
   * [Odd Even Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/odd_even_sort.r)
   * [Pancake Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/pancake_sort.r)
   * [Patience Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/patience_sort.r)
+  * [Pigeonhole Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/pigeonhole_sort.r)
   * [Quick Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/quick_sort.r)
   * [Radix Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/radix_sort.r)
   * [Selection Sort](https://github.com/TheAlgorithms/R/blob/HEAD/sorting_algorithms/selection_sort.r)
